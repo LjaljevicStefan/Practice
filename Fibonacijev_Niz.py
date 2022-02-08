@@ -1,4 +1,4 @@
-# Tribunacijev Niz
+# Fibonacijev Niz
 
 n = int(input("Unesite duzinu niza: "))
 niz = [0, 1]
